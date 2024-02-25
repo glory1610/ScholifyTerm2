@@ -24,7 +24,8 @@
 
 ## Аналіз подібних аплікацій:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/068e05b2-6c15-4d6b-80e3-ac9c4f844ca0/9e39c6b9-bba2-4628-b44a-209a5b4ba7c6/Untitled.png)
+![Alt text](https://github.com/roha04/ScholifyTerm2/blob/d8524453ca3555c688169a97ae6e4740d197cd37/Documents/PraxiSchool.png)
+
 
 ### Переваги:
 
