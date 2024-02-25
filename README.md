@@ -31,7 +31,7 @@
 
 ### Недоліки:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/068e05b2-6c15-4d6b-80e3-ac9c4f844ca0/2c8ed81e-9fef-4839-9ed5-bf6331237bff/Untitled.png)
+![Alt text](https://github.com/roha04/ScholifyTerm2/blob/d8524453ca3555c688169a97ae6e4740d197cd37/Documents/FactsEdu.png)
 
 ### Переваги:
 
