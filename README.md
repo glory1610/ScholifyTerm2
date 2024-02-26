@@ -24,7 +24,7 @@
 
 ## Аналіз подібних аплікацій:
 
-![Alt text](https://github.com/roha04/ScholifyTerm2/blob/32c0def393c1fd5bc4f716c9e39b590d6f247afa/Artefacts/FactsEdu.png)
+![Alt text](https://github.com/roha04/ScholifyTerm2/blob/63bf7050fd19a6479ad8346ee700181dfea773b2/Artefacts/PraxiSchool.png)
 
 
 ### Переваги:
